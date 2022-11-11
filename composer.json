@@ -1,0 +1,19 @@
+{
+    "name": "berez/form.ua",
+    "description": "test task working with form and database",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexei Berezko",
+            "email": "berezkoas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "App\\" : "App"
+        }
+    }
+}
